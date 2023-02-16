@@ -8,3 +8,6 @@ idea/
 build/
 flutter_export_environment.sh
 .flutter-plugins-dependencies
+.flutter-plugins
+.flutter-plugins-dependencies
+pubspec.lock
